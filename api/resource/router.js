@@ -1,5 +1,4 @@
 // `/api/resources` router buraya
-//  `/api/projects` router buraya
 const router = require("express").Router();
 const resourceModel = require("./model");
 
